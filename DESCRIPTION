@@ -1,0 +1,12 @@
+Package: StudentPackage
+Title: Student Utility Package for Basic Operations and Statistics
+Version: 1.0.0
+Authors@R: person("Ravi", "Soni", email = "ravi.kumarsonids24@ssipmt.com", role = c("aut", "cre"))
+Description: Demonstration package for R package development covering arithmetic operations, calculator functions, and summary statistics as part of Experiment 11.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.1

@@ -1,0 +1,6 @@
+^\.git$
+^\.gitignore$
+^push_to_github\.bat$
+^run_experiment\.R$
+^test_package\.R$
+\.Rproj\.user$
